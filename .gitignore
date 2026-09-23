@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+output/
+.DS_Store
+
+# Local reader profile and generated/private data
+PROMPT.md
+*.log

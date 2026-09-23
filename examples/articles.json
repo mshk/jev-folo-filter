@@ -1,0 +1,7 @@
+{
+  "note": "動作確認専用の架空記事。実際のニュースではありません。",
+  "articles": [
+    { "id": "demo-ai", "title": "テスト記事: LLM APIにエージェント向け構造化出力が追加", "source": "開発者公式ブログ（架空）", "url": "https://example.com/ai", "publishedAt": "2026-09-23T00:00:00Z", "summary": "動作確認専用の架空記事。APIの仕様変更、TypeScriptの実装例、移行手順、測定条件付きの性能比較を掲載。" },
+    { "id": "demo-gallery", "title": "テスト記事: 今日の写真ギャラリー100枚", "source": "写真サイト（架空）", "url": "https://example.com/gallery", "publishedAt": "2026-09-23T00:00:00Z", "summary": "動作確認専用の架空記事。写真の一覧のみ。機材の解説、技術情報、新製品情報はありません。" }
+  ]
+}
